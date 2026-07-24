@@ -42,31 +42,21 @@ Implement fundamental image processing operations using OpenCV in Python, includ
 ![](ex1_imgs/cell_29_5.png)
 
 ### cell_31_6.png
-![](ex1_imgs/cell_31_6.png)
+<img width="512" height="313" alt="Screenshot 2026-07-24 155102" src="https://github.com/user-attachments/assets/b43105fe-00e4-40e3-9346-52aa8577c699" />
+
+
 
 ### cell_33_7.png
-![](ex1_imgs/cell_33_7.png)
+<img width="524" height="310" alt="Screenshot 2026-07-24 155214" src="https://github.com/user-attachments/assets/e43be6c0-c74e-4a6b-bb52-9aa5881cb9ba" /></br>
+<img width="391" height="396" alt="Screenshot 2026-07-24 155209" src="https://github.com/user-attachments/assets/3ec612df-c8fb-4bb2-b1af-800e2320b1ea" /></br>
+<img width="496" height="395" alt="Screenshot 2026-07-24 155203" src="https://github.com/user-attachments/assets/838e6e83-9962-4c5c-b7ef-ece27908ea63" /></br>
+<img width="548" height="307" alt="Screenshot 2026-07-24 155218" src="https://github.com/user-attachments/assets/fedaf40b-5cf2-4fff-9945-03a575f29b90" /></br>
+<img width="518" height="311" alt="Screenshot 2026-07-24 155157" src="https://github.com/user-attachments/assets/491cc52f-bf51-4146-aa8b-e9c67547216f" /></br>
+<img width="509" height="314" alt="Screenshot 2026-07-24 155151" src="https://github.com/user-attachments/assets/0ff86300-a39d-4627-8afc-9b7e119a6d0a" /></br>
+<img width="527" height="315" alt="Screenshot 2026-07-24 155145" src="https://github.com/user-attachments/assets/5caf0e94-6deb-4781-9b08-87ee3d039f34" /></br>
 
-### cell_35_8.png
-![](ex1_imgs/cell_35_8.png)
 
-### cell_37_9.png
-![](ex1_imgs/cell_37_9.png)
 
-### cell_41_10.png
-![](ex1_imgs/cell_41_10.png)
-
-### cell_48_11.png
-![](ex1_imgs/cell_48_11.png)
-
-### cell_54_12.png
-![](ex1_imgs/cell_54_12.png)
-
-### cell_59_13.png
-![](ex1_imgs/cell_59_13.png)
-
-### cell_62_14.png
-![](ex1_imgs/cell_62_14.png)
 
 
 ## Result
