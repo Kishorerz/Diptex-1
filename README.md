@@ -1,4 +1,6 @@
-# Image Handling and Pixel Transformations Using OpenCV
+# Exp -1.Image Handling and Pixel Transformations Using OpenCV
+## Name : Kishor Kumar B
+## Reg No : 212223240072
 
 ## AIM
 Implement fundamental image processing operations using OpenCV in Python, including image loading, drawing, color space conversion, pixel manipulation, resizing, cropping, flipping, and saving images.
